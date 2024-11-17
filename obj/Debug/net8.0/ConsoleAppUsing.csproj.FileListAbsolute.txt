@@ -1,0 +1,14 @@
+D:\Projetos\C#\ConsoleAppUsing\bin\Debug\net8.0\ConsoleAppUsing.exe
+D:\Projetos\C#\ConsoleAppUsing\bin\Debug\net8.0\ConsoleAppUsing.deps.json
+D:\Projetos\C#\ConsoleAppUsing\bin\Debug\net8.0\ConsoleAppUsing.runtimeconfig.json
+D:\Projetos\C#\ConsoleAppUsing\bin\Debug\net8.0\ConsoleAppUsing.dll
+D:\Projetos\C#\ConsoleAppUsing\bin\Debug\net8.0\ConsoleAppUsing.pdb
+D:\Projetos\C#\ConsoleAppUsing\obj\Debug\net8.0\ConsoleAppUsing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\C#\ConsoleAppUsing\obj\Debug\net8.0\ConsoleAppUsing.AssemblyInfoInputs.cache
+D:\Projetos\C#\ConsoleAppUsing\obj\Debug\net8.0\ConsoleAppUsing.AssemblyInfo.cs
+D:\Projetos\C#\ConsoleAppUsing\obj\Debug\net8.0\ConsoleAppUsing.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\ConsoleAppUsing\obj\Debug\net8.0\ConsoleAppUsing.dll
+D:\Projetos\C#\ConsoleAppUsing\obj\Debug\net8.0\refint\ConsoleAppUsing.dll
+D:\Projetos\C#\ConsoleAppUsing\obj\Debug\net8.0\ConsoleAppUsing.pdb
+D:\Projetos\C#\ConsoleAppUsing\obj\Debug\net8.0\ConsoleAppUsing.genruntimeconfig.cache
+D:\Projetos\C#\ConsoleAppUsing\obj\Debug\net8.0\ref\ConsoleAppUsing.dll
